@@ -49,7 +49,7 @@ cd frontend
 npm install
 npm run dev
 ```
-> *Tarayıcınızda `http://localhost:5173` adresinden uygulamaya erişebilirsiniz.*
+> *Tarayıcınızda `http://localhost:5175` adresinden uygulamaya erişebilirsiniz.*
 
 ### 📄 Oyun Kuralları
 1. "Yeni Oda Kur" diyerek lobi açın ve oda kodunu arkadaşlarınıza yollayın. Davetliler "Odaya Katıl" butonu ile dâhil olsun.
@@ -104,7 +104,7 @@ cd frontend
 npm install
 npm run dev
 ```
-> *Access the application in your browser at `http://localhost:5173`.*
+> *Access the application in your browser at `http://localhost:5175`.*
 
 ### 📄 How to Play
 1. Create a lobby by clicking "Yeni Oda Kur" (Create Room) and share the 6-digit code. Guests join via "Odaya Katıl" (Join Room).
